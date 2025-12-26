@@ -1,0 +1,38 @@
+{
+  "id": "qatar",
+  "flag": "qa",
+  "countryName": "Qatar",
+  "title": "Qatar Attestation Services in Delhi NCR",
+  "serviceType": "attestation",
+  "updatedAt": "2025-05-21T10:10:31.561Z",
+  "description": "\nQatar Attestation is required for Indian-origin documents to be accepted by Qatari authorities. This process ensures your documents are legally valid in Qatar for visa, work, education, or residency purposes. We offer fast, hassle-free Qatar Embassy attestation in Delhi NCR.",
+  "descriptionHeading": "About Attestation",
+  "requirements": [
+    "For job opportunities in Qatar",
+    "Admission in Qatari universities",
+    "Sponsoring family or dependents",
+    "Legal proof for immigration or PR",
+    "Company setup and contracts"
+  ],
+  "requirementsHeading": "Why is Attestation Required?",
+  "process": [
+    "Notary Attestation",
+    "HRD/Home/SDM Attestation",
+    "MEA Attestation",
+    "Qatar Embassy Attestation (India)",
+    "MOFA Attestation (Qatar – if required)"
+  ],
+  "processHeading": "Qatar Document Attestation Process in India",
+  "documentsRequired": [
+    "Original Documents (Educational/Personal/Commercial)",
+    "Passport Copy"
+  ],
+  "documentsRequiredHeading": "Documents Required for Qatar Attestation",
+  "commonDocuments": [
+    "Educational Certificates (Degree, Diploma)",
+    "Birth/Marriage Certificates",
+    "PCC",
+    "Company MOUs or Commercial Invoices"
+  ],
+  "commonDocumentsHeading": "Most Common Documents"
+}

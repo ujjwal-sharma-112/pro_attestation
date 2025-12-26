@@ -1,0 +1,37 @@
+{
+  "id": "kuwait",
+  "flag": "kw",
+  "countryName": "Kuwait",
+  "title": "Kuwait Attestation Services in Delhi NCR",
+  "serviceType": "attestation",
+  "updatedAt": "2025-05-21T10:11:16.279Z",
+  "description": "\nKuwait Attestation is a document legalization process that confirms the authenticity of Indian documents for use in Kuwait. If you're relocating for a job or business setup, attestation from the Kuwait Embassy in India is mandatory. We provide end-to-end Kuwait attestation in Delhi NCR, including MEA and Embassy processing.",
+  "descriptionHeading": "About Attestation",
+  "requirements": [
+    "To apply for a job in Kuwait",
+    "For student visa or dependent visa",
+    "Family sponsorships",
+    "Business registration in Kuwait"
+  ],
+  "requirementsHeading": "Why is Kuwait Attestation Required?",
+  "process": [
+    "Notary Attestation",
+    "State HRD/Home/SDM Attestation",
+    "MEA Attestation",
+    "Kuwait Embassy Attestation (India)",
+    "MOFA Attestation (Kuwait – done locally)"
+  ],
+  "processHeading": "Attestation Process",
+  "documentsRequired": [
+    "Original Document",
+    "Passport Copy"
+  ],
+  "documentsRequiredHeading": "Documents Required",
+  "commonDocuments": [
+    "Academic Certificates (Degree, Diploma)",
+    "Birth Certificate",
+    "Marriage Certificate",
+    "Power of Attorney"
+  ],
+  "commonDocumentsHeading": "Most Common Documents"
+}
